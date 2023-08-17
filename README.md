@@ -67,6 +67,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/kaizoku-oh.png">
   </details>
+- [Ben Parisot](https://github.com/BenParisot)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/BenParisot.jpg">
+  </details>
 - [Brian Douglas](https://github.com/bdougie)
   <details>
     <summary>Preview</summary>
